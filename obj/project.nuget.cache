@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g2Rd9jt0dx0=",
+  "dgSpecHash": "kbaA0SSxWtI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\equation-trainer\\equation-trainer\\equation-trainer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

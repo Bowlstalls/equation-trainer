@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("equation-trainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60116ce11f2f4b8c792cc1f5d78479eac7879b8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1636bac2d6b20d4f06e006ac6f0b828dae2e83")]
 [assembly: System.Reflection.AssemblyProductAttribute("equation-trainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("equation-trainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
