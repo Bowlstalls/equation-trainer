@@ -1,4 +1,4 @@
-﻿namespace equation_trainer.Client;
+﻿namespace Client;
 
 public class Equation {
   public string View;

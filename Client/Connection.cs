@@ -1,9 +1,8 @@
-﻿using System.IO;
-using System.Net;
+﻿using System.Net;
 using System.Net.Sockets;
 using Newtonsoft.Json;
 
-namespace equation_trainer.Client;
+namespace Client;
 
 public class Connection : IDisposable {
   private const string ConfigPath = "Client/server-config.json";
