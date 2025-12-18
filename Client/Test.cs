@@ -1,4 +1,6 @@
-﻿namespace Client;
+﻿using equation_trainer.Client.Nodes;
+
+namespace Client;
 
 public class Test {
   public static void Start()
