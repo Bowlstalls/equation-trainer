@@ -2,16 +2,13 @@
 
 public class Equation {
   public string View;
-  public float Value;
+  public int[] Polynomial;
+  public int[] Roots;
 
-  private Equation(string view, float value)
+  public Equation(string view, int[] polynomial, int[] roots)
   {
     View = view;
-    Value = value;
-  }
-
-  public static Equation GenerateLinear()
-  {
-    throw new NotImplementedException();
+    Roots = roots;
+    Polynomial = polynomial;
   }
 }
