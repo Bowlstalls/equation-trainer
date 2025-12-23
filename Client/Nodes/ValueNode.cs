@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace equation_trainer.Client.Nodes;
+namespace Client.Nodes;
 
 public class ValueNode : Node {
   public ValueNode(float value, int power)

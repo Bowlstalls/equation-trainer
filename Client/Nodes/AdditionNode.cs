@@ -1,4 +1,4 @@
-﻿namespace equation_trainer.Client.Nodes;
+﻿namespace Client.Nodes;
 
 public class AdditionNode : OperationNode {
   public override int Priority => 1;
