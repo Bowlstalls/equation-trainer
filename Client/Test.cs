@@ -1,9 +1,9 @@
 ﻿namespace Client;
 
 public class Test {
-  public static void Start()
+  public static void Run()
   {
-    var gen = new EquationGenerator(new EquationGenerator.Range(-10, 10), new EquationGenerator.Range(-10, 10));
+    var gen = new EquationGenerator();
     gen.Generate(2);
   }
 }
