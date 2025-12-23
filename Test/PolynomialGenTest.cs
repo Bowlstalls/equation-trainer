@@ -1,4 +1,6 @@
-﻿using Client;
+﻿using System;
+using Client;
+using NUnit.Framework;
 
 namespace Test;
 
