@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Client;
+﻿namespace Client;
 
 public class EquationGenerator {
   public Range Roots = new Range(-5, 5);

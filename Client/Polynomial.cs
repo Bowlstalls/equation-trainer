@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Client;
+﻿namespace Client;
 
 public class Polynomial : List<int> {
   public Polynomial(int multiplier, IList<int> roots)
